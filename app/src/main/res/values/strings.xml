@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC4</string>
+    <string name="title_activity_main">ALC 4 Phase 1</string>
+    <string name="title_activity_about">About ALC</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="name">James Eissah Aidoo</string>
+    <string name="alc_track">Track: Android</string>
+    <string name="country">Country: Ghana</string>
+    <string name="email">Email: jamesaidooessah@gmail.com</string>
+    <string name="phone_number">Phone Number: 233 57 609 5478</string>
+    <string name="slack_username">Slack Username: @James Aidoo Eissah</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="profile_button_text">My Profile</string>
+    <string name="about_button_text">ABOUT ALC</string>
+</resources>
