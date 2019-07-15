@@ -1,3 +1,9 @@
 <resources>
-    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="cardElevation">4dp</dimen>
+    <dimen name="matCardElevation">6dp</dimen>
+    <dimen name="cardCornerRadius">15sp</dimen>
+    <dimen name="matCardCornerRadius">24sp</dimen>
+    <dimen name="cardContentPadding">4dp</dimen>
+    <dimen name="profileDetailFontSize">16sp</dimen>
+
 </resources>

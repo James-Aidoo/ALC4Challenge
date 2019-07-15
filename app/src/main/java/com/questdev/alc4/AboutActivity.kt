@@ -9,7 +9,6 @@ import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity;
 
 import kotlinx.android.synthetic.main.activity_about.*
-import org.apache.http.conn.ssl.SSLSocketFactory.SSL
 
 class AboutActivity : AppCompatActivity() {
 
@@ -18,6 +17,7 @@ class AboutActivity : AppCompatActivity() {
         setContentView(R.layout.activity_about)
         setSupportActionBar(toolbar)
 
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
         setupWebView()
     }
 
